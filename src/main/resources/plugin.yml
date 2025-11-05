@@ -1,0 +1,4 @@
+name: Flood-Filter-v1.0
+version: '1.0'
+main: me.Patrick.minecraftPluginDeromer.MinecraftPluginDeromer
+api-version: '1.21'
